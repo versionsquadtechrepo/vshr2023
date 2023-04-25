@@ -7,7 +7,7 @@ Checkout the code
 Goto the folder
 install dependecies by hitting the following command
 	pip -m install requirements.txt
-Create a new database in the Postgres.
+Create a new database in the Postgre - hrversion_db_20230319
 Create a user and provide full privileges to the new create
 
 Change the DB credentials in settings.txt DATABASES section
